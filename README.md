@@ -10,6 +10,7 @@ STUDY WITH Baekjoon Online Judge
 - [level_5](./level_5)  **8958 again**
 - [level_6](./level_6)  **4673 again**
 - [level_7](./level_7)  **2941, 1316 again**
-- [level_8](./level_8)  **1193 again**
+- [level_8](./level_8)  **1193 2839 again**
 - [level_9](./level_9)  **1978 prime func again**
 - [level_10](./level_10)
+- [level_12](./level_12)
