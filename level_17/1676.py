@@ -8,6 +8,7 @@ def fac(i):
         return i*fac(i-1)
 
 result = fac(n)
+
 while (result % 10) == 0:
     result = result//10
     cnt += 1
